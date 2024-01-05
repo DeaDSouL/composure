@@ -1,4 +1,4 @@
-# Moved to gitlab.com/by-others/compusre
+# Moved to [gitlab.com/by-others/compusre](http://gitlab.com/by-others/compusre)
 
 
      e88~~\  e88~-_  888-~88e-~88e 888-~88e   e88~-_   d88~\ 888  888 888-~\  e88~~8e
