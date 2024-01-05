@@ -1,3 +1,5 @@
+# Moved to gitlab.com/by-others/compusre
+
 
      e88~~\  e88~-_  888-~88e-~88e 888-~88e   e88~-_   d88~\ 888  888 888-~\  e88~~8e
     d888    d888   i 888  888  888 888  888b d888   i C888   888  888 888    d888  88b
